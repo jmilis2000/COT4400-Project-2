@@ -1,0 +1,6 @@
+﻿  Project2.cpp
+C:\Users\Jahlil\Documents\School Work\School Work\COT4400\Project2\Project2\Project2.cpp(35,9): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jahlil\Documents\School Work\School Work\COT4400\Project2\Project2\Project2.cpp(35,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jahlil\Documents\School Work\School Work\COT4400\Project2\Project2\Project2.cpp(37,18): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Jahlil\Documents\School Work\School Work\COT4400\Project2\Project2\Project2.cpp(39,18): warning C4018:  '>': signed/unsigned mismatch
+  Project2.vcxproj -> C:\Users\Jahlil\Documents\School Work\School Work\COT4400\Project2\Debug\Project2.exe
